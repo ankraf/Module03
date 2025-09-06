@@ -76,7 +76,6 @@ section a:link {
 /* Styling for the footer */
 footer {
     text-align: right;
-    position: fixed;
     bottom: 0;
     width: 98%;
     font-style: italic; 
